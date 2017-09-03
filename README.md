@@ -1,11 +1,10 @@
 # Orbiting Planet mini project
 
 Features CSS3 animations.
-
-https://mikaeljan.github.io/OrbitingPlanet/
-
 Shows various CSS3 features for handling animations of HTML tags.
 
-In case of any questions, you can contact me @:<br />
-mikael.janek@gmail.com<br />
+## Live [demo](https://mikaeljan.github.io/OrbitingPlanet/)
 
+## Contact
+For any questions please feel free to contact me:<br />
+<a href="mailto:mikael.janek@gmail.com">mikael.janek@gmail.com</a>
